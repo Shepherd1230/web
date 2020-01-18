@@ -1,0 +1,3 @@
+superadmin:haomin1230@gmail.com
+password:abc
+superuser:web_admin
